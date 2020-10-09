@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="No" Tabpos="1" TopLine="48">
+			<Cursor Line="68" Column="11"/>
+		</File>
+		<File Name="util\util.c" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="81" Column="46"/>
+		</File>
+		<File Name="util\util.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="12" Column="7"/>
+		</File>
+		<File Name="datadefine.h" Top="No" Tabpos="4" TopLine="46">
+			<Cursor Line="60" Column="42"/>
+		</File>
+		<File Name="dataStructures\array\arrayMngr.c" Top="No" Tabpos="5" TopLine="5">
+			<Cursor Line="11" Column="1"/>
+		</File>
+		<File Name="dataStructures\array\arrayMngr.h" Top="No" Tabpos="6" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="dataStructures\matrix\matrixMngr.c" Top="No" Tabpos="7" TopLine="106">
+			<Cursor Line="14" Column="5"/>
+		</File>
+		<File Name="dataStructures\matrix\matrixMngr.h" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+		<File Name="file\fileMngr.c" Top="Yes" Tabpos="9" TopLine="31">
+			<Cursor Line="36" Column="13"/>
+		</File>
+		<File Name="thread\thread.c" Top="No" Tabpos="10" TopLine="47">
+			<Cursor Line="54" Column="25"/>
+		</File>
+		<File Name="thread\thread.h" Top="No" Tabpos="11" TopLine="1">
+			<Cursor Line="6" Column="23"/>
+			<Selection Line="6" Column="8"/>
+		</File>
+		<File Name="file\fileMngr.h" Top="No" Tabpos="12" TopLine="1">
+			<Cursor Line="1" Column="1"/>
+		</File>
+	</Files>
+	<Folders>
+		<Folder Name="file" Expanded="Yes"/>
+		<Folder Name="thread" Expanded="Yes"/>
+		<Folder Name="util" Expanded="Yes"/>
+		<Folder Name="dataStructures" Expanded="Yes"/>
+		<Folder Name="dataStructures\array" Expanded="Yes"/>
+		<Folder Name="dataStructures\matrix" Expanded="Yes"/>
+	</Folders>
+</Layout>
